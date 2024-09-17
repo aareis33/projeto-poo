@@ -8,6 +8,7 @@ public class CsvGenerator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+
         // Recebe o número de colunas
         System.out.print("Digite o número de colunas: ");
         int numColumns = scanner.nextInt();
